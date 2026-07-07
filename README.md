@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Vasko 👋
 
-<!--
-**Vasko333/vasko333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack software engineer building AI-powered products**
 
-Here are some ideas to get you started:
+🎓 B.Eng. in Software Engineering & Innovations (2026) · 📍 Skopje, North Macedonia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+**[Talbord](https://github.com/vasko333/talbord)** — an AI-powered multi-tenant SaaS for employee onboarding and training. Companies upload their internal documents; every new employee gets a chatbot that actually knows *their* company. RAG over PostgreSQL + pgvector, Llama 3.3 70B via Groq with an OpenRouter fallback, and a privacy tier running fully local inference (Ollama) for classified documents. Defended as my bachelor's thesis, now heading to market.
+
+## Open source
+
+- **[llm-cascade](https://github.com/vasko333/llm-cascade)** — resilient LLM completions with provider fallback, retries, and timeouts. Extracted from Talbord's production backend.
+- **[youtube-content-pipeline](https://github.com/vasko333/youtube-content-pipeline)** — automated Twitch VOD → YouTube pipeline: LightGBM auto-editing, local-LLM metadata generation, thumbnail A/B testing.
+
+## Stack
+
+`TypeScript` `JavaScript` `Python` `PHP` · `React` `Next.js` `Tailwind` · `Node.js` `Express` `FastAPI` `Laravel` · `PostgreSQL + pgvector` `Redis` `Elasticsearch` · `RAG` `LLM integration` `embeddings` · `Docker` `Linux` `CI/CD`
+
+## Reach me
+
+[LinkedIn](https://www.linkedin.com/in/vasko-dev/) · [vaskodimitrov999@gmail.com](mailto:vaskodimitrov999@gmail.com)
