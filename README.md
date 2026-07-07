@@ -2,7 +2,7 @@
 
 **Full-stack software engineer building AI-powered products**
 
-🎓 B.Eng. in Software Engineering & Innovations (2026) · 📍 Skopje, North Macedonia
+🎓 Bachelor of Engineering in Information Technology - Software Engineering and Innovations (2026) · 📍 Skopje, North Macedonia
 
 ## What I'm building
 
